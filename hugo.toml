@@ -1,0 +1,104 @@
+baseURL = 'https://arijoshi.github.io/'
+languageCode = 'en-gb'
+title = 'aarti (ari) joshi'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "personal website"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'about'
+homeIntroContent = """
+[***profile***] I am a PhD student based at ZAS Berlin. I like thinking about meaning and how we coordinate on it, within and beyond what is explicitly uttered. My interests lie across & between semantics and pragmatics--I'm especially captivated by phenomena concerning degrees, not-at-issue meaning, and negation. I use mainly formal and experimental methods, and try to computate sometimes.
+
+[***projects***] My doctoral project is on inference-cancellation under negation, supervised by Uli Sauerland and Michael Franke. 
+At ZAS, I am part of the LMBayes project, working on Bayesian modelling of quantifier use. I also enjoy puzzling over "depth-charge" sentences.
+
+[***hobbies***] Outside of work, most of my thoughts are probably about cats. Check mine out {here}. I amuse myself with the usual homebody stuff: books (fiction!), puzzles, board games, and a ton of music. Recommendations are always welcome!
+
+[***name***]I go by *ari*, my nickname. But on paper I use *Aarti Joshi*, pronounced [​​a​​ɾt̪​​i​ ​d͡z​​o​​ɕ​i​​] (often germanised to [jo​​ʃ​i]...)
+
+
+"""
+
+# Collection to display on home
+#homeCollectionTitle = 'Posts'
+#homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = false
+#showCurrentPage = true
+#home = "Home"
+
+# Social icons
+[[params.social]]
+name = "orcid"
+url = "https://orcid.org/0000-0002-6876-394X"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ari-j-870a5b1b5/"
+
+
+
+#[[params.social]]
+#name = "github"
+#url = "https://github.com/user"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "output"
+url = "/output"
+
+[[params.menu]]
+name = "cv"
+url = "/cv"
+
+#[[params.menu]]
+#name = "random"
+#url = "/random"
+
+[[params.menu]]
+name = "cats"
+url = "/funstuff/cats"
+
+
+# Syntax highlight on code blocks
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

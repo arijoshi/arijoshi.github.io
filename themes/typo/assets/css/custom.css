@@ -1,0 +1,26 @@
+/* Place custom css here */
+
+  table thead, table th {
+    display: none; /* Hides header row */
+  }
+
+table, table td, table tr {
+    border-style: none;
+    border: none;
+    border-collapse: collapse;
+    /* border: 0px; */
+    width: 100%;
+    padding: 8px; 
+  }  
+
+  
+
+/* table.borderless-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+table.borderless-table td {
+    border: none;
+    padding: 8px;
+  } */
