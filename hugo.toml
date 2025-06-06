@@ -13,9 +13,9 @@ tag = 'tags'
 # Meta description
 description = "personal website"
 
-[params]
-showFooter = false
-footerContent = "Your **custom** md `footer`"
+#[params]
+#showFooter = false
+#footerContent = ""
 
 # Appearance settings
 theme = 'light'
