@@ -13,7 +13,7 @@ tag = 'tags'
 # Meta description
 description = "personal website"
 showFooter = false
-faviconPath = '/static/img'
+faviconPath = '/img'
 
 #[params]
 #howFooter = false
