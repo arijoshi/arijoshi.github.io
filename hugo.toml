@@ -31,9 +31,9 @@ hideHeader = false
 homeIntroTitle = 'contact'
 homeIntroContent = """
  
-***email*** joshi [at] leibniz [hyphen] zas [dot] de  
+[***email***] joshi [at] leibniz [hyphen] zas [dot] de  
 
-***address*** Leibniz Zentrum Allgemeine Sprachwissenschaft, Pariser Str. 1, 10719 Berlin 
+[***address***] Leibniz Zentrum Allgemeine Sprachwissenschaft, Pariser Str. 1, 10719 Berlin 
 
 ## about 
 
