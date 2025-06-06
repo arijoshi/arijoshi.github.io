@@ -13,6 +13,10 @@ tag = 'tags'
 # Meta description
 description = "personal website"
 
+[params]
+showFooter = false
+footerContent = "Your **custom** md `footer`"
+
 # Appearance settings
 theme = 'light'
 colorPalette = 'default'
@@ -64,8 +68,6 @@ url = "https://orcid.org/0000-0002-6876-394X"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/ari-j-870a5b1b5/"
-
-
 
 #[[params.social]]
 #name = "github"
