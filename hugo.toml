@@ -20,7 +20,7 @@ hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'about'
-homeIntroContent = ""lalalala"
+homeIntroContent = """
 [***profile***] I am a PhD student based at ZAS Berlin. I like thinking about meaning and how we coordinate on it, within and beyond what is explicitly uttered. My interests lie across & between semantics and pragmatics--I'm especially captivated by phenomena concerning degrees, not-at-issue meaning, and negation. I use mainly formal and experimental methods, and try to computate sometimes.
 
 [***projects***] My doctoral project is on inference-cancellation under negation, supervised by Uli Sauerland and Michael Franke. 
@@ -32,6 +32,9 @@ At ZAS, I am part of the LMBayes project, working on Bayesian modelling of quant
 
 [***name***]I go by *ari*, my nickname. But on paper I use *Aarti Joshi*, pronounced [​​a​​ɾt̪​​i​ ​d͡z​​o​​ɕ​i​​] (often germanised to [jo​​ʃ​i]...)
 
+## contact 
+***email*** joshi [at] leibniz [hyphen] zas [dot] de
+***address*** Leibniz Zentrum Allgemeine Sprachwissenschaft, Pariser Str. 1, 10719 Berlin 
 
 """
 
