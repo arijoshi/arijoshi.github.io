@@ -89,8 +89,8 @@ url = "/cv"
 #url = "/random"
 
 [[params.menu]]
-name = "cats"
-url = "/funstuff/cats"
+name = "random"
+url = "/random"
 
 
 # Syntax highlight on code blocks
