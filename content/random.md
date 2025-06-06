@@ -5,6 +5,6 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-## [🐱Cats🐱](/funstuff/cats)
+### [🐱cats!🐱](/funstuff/cats)
 
 ... 
