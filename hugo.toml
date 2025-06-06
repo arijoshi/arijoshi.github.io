@@ -21,6 +21,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'about'
 homeIntroContent = """
+ 
 [***profile***] I am a PhD student based at ZAS Berlin. I like thinking about meaning and how we coordinate on it, within and beyond what is explicitly uttered. My interests lie across & between semantics and pragmatics--I'm especially captivated by phenomena concerning degrees, not-at-issue meaning, and negation. I use mainly formal and experimental methods, and try to computate sometimes.
 
 [***projects***] My doctoral project is on inference-cancellation under negation, supervised by Uli Sauerland and Michael Franke. 
