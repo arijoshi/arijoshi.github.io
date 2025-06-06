@@ -12,13 +12,15 @@ tag = 'tags'
 [params]
 # Meta description
 description = "personal website"
+showFooter = false
+faviconPath = '/static'
 
 #[params]
-#showFooter = false
+#howFooter = false
 #footerContent = ""
 
-[params]
-faviconPath = '/static'
+#[params]
+#faviconPath = '/static'
 
 # Appearance settings
 theme = 'light'
