@@ -9,12 +9,16 @@ hidePagination: true
 
 ![boni](boni-couch.png)
 
+    
+
 ------ 
 
 ### [Rüdiger Platon (Rüdi) 🥹🐥👑](rudi)
 
 ![rudi](rudi-portrait.png)
+     
 
+     
 ------
 
 ### 🕊️ [Dania (Dani) 🤗🥔🤍](dani)  
