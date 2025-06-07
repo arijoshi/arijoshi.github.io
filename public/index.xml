@@ -12,7 +12,7 @@
       <link>http://localhost:1313/random/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/random/</guid>
-      <description>&lt;h3 class=&#34;heading&#34; id=&#34;cats&#34;&gt;&#xA;  &lt;a href=&#34;http://localhost:1313/funstuff/cats&#34;&gt;🐱cats!🐱&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cats&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;h3 class=&#34;heading&#34; id=&#34;cats&#34;&gt;&#xA;  &lt;a href=&#34;http://localhost:1313/funstuff/cats&#34;&gt;🐱cats!🐱&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cats&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[more to come&amp;hellip;]&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>output</title>

@@ -7,4 +7,4 @@ hidePagination: true
 
 ### [🐱cats!🐱](/funstuff/cats)
 
-... 
+*[more to come...]* 
