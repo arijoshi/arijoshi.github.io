@@ -4,8 +4,6 @@
   <url>
     <loc>http://localhost:1313/random/</loc>
   </url><url>
-    <loc>http://localhost:1313/funstuff/</loc>
-  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/output/</loc>
@@ -13,9 +11,5 @@
     <loc>http://localhost:1313/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/funstuff/cats/</loc>
-  </url><url>
-    <loc>http://localhost:1313/funstuff/cats1/</loc>
   </url>
 </urlset>

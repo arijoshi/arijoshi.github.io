@@ -5,10 +5,12 @@ hideBackToTop: true
 hidePagination: true
 ---
 
+- 🪧 🔜 **The King of France is not bald: Metalinguistic negation in the depth-charge illusion**<br>Sinn und Bedeutung 30 | Frankfurt, September 2025
+ 
 - 🎤 🔜 **Compositionality in the depth-charge illusion: Some experimental insights**<br>European Summer School in Logic, Language & Information |  Bochum, August 2025
   
-- 🪧 🔜 **The King of France is not bald: Metalinguistic negation in the depth-charge illusion**<br>Sinn und Bedeutung 30 | Frankfurt, September 2025
-  
+  ----
+
 - 🎤 **Modelling quantifier use with beta distributions** [with Davit Gogolashvili]<br>Leibniz-MMS Days | March 2025
   
 - 🎤 **Are depth-charge sentences semantically ambiguous?**<br>Potsdam Syntax-Semantics Colloquium | January 2024
