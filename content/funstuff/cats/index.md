@@ -5,18 +5,18 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-### [Bonifatius (Boni) 🤯🚀💎](/boni.md) 
+### [Bonifatius (Boni) 🤯🚀💎](/boni) 
 
 ![boni](/assets/boni-couch.png)
 
 ------ 
 
-### [Rüdiger Platon (Rüdi) 🥹🐥👑](/rudi.md)
+### [Rüdiger Platon (Rüdi) 🥹🐥👑](/rudi)
 
 ![rudi](/assets/rudi-portrait.png)
 
 ------
 
-### 🕊️ [Dania (Dani) 🤗🥔🤍](/dani.md)  
+### 🕊️ [Dania (Dani) 🤗🥔🤍](/dani)  
 
 ![dani](/assets/dani-desk.png)
