@@ -7,22 +7,22 @@ hidePagination: true
 
 ### [Bonifatius (Boni) 🤯🚀💎](boni) 
 
-![boni](boni-couch.png)
-
-    
-
+![boni](/assets/boni-couch.png)
+ 
+       
+   
 ------ 
 
 ### [Rüdiger Platon (Rüdi) 🥹🐥👑](rudi)
 
-![rudi](rudi-portrait.png)
-     
-
-     
+![rudi](/assets/rudi-portrait.png)
+        
+   
+      
 ------
 
 ### 🕊️ [Dania (Dani) 🤗🥔🤍](dani)  
 
-![dani](dani-desk.png)
+![dani](/assets/dani-desk.png)
 
  
