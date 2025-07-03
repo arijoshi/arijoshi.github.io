@@ -87,9 +87,9 @@ url = "/"
 name = "output"
 url = "/output"
 
-#[[params.menu]]
-#name = "cv"
-#url = "/cv"
+[[params.menu]]
+name = "cv"
+url = "/cv"
 
 [[params.menu]]
 name = "random"
