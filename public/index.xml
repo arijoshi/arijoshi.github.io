@@ -15,6 +15,13 @@
       <description>&lt;h3 class=&#34;heading&#34; id=&#34;cats&#34;&gt;&#xA;  &lt;a href=&#34;cats&#34;&gt; 🐱cats!🐱&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cats&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[more to come&amp;hellip;]&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>cv</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;!-- ![cv](public.pdf) --&gt;</description>
+    </item>
+    <item>
       <title>output</title>
       <link>http://localhost:1313/output/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,9 +30,9 @@
     </item>
     <item>
       <title>short cv</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>http://localhost:1313/cv-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>http://localhost:1313/cv-page/</guid>
       <description>&lt;h3 class=&#34;heading&#34; id=&#34;education&#34;&gt;&#xA;  education&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#education&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;PhD Candidate, General Linguistics&lt;br&gt;&lt;i&gt;&lt;strong&gt;University of Tübingen&lt;/strong&gt;&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;&lt;span style=&#34;visibility: hidden;&#34;&gt;-------&lt;/span&gt;2025&lt;span style=&#34;visibility: hidden;&#34;&gt;–&lt;/span&gt;–&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;MSc Linguistics: Empirical &amp; Theoretical Foundations&lt;br&gt;&lt;i&gt;&lt;strong&gt;University of Potsdam&lt;/strong&gt;&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;2020 – 2024&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;MSc Applied Linguistics &amp; Second Language Acquisition&lt;br&gt;&lt;i&gt;&lt;strong&gt;University of Oxford&lt;/strong&gt;&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;2019 – 2020&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;!--   &lt;tr&gt;&#xA;    &lt;td&gt;Row 4, Col 1&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;Row 4, Col 2&lt;/td&gt;&#xA;  &lt;/tr&gt; --&gt;&#xA;&lt;/table&gt;&#xA;&lt;!-- |             |             |&#xA;|-------------|------------:|&#xA;| PhD student&lt;br&gt;University of Tübingen | July&amp;nbsp;2024&amp;nbsp;–&amp;nbsp; &lt;br&gt;   |&#xA;| MSc         | 2020&amp;nbsp;–&amp;nbsp;2024 |&#xA; --&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;positions&#34;&gt;&#xA;  positions&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#positions&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;Doctoral Researcher&lt;br&gt;&lt;i&gt;&lt;strong&gt;ZAS Berlin&lt;/strong&gt;&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;&lt;span style=&#34;visibility: hidden;&#34;&gt;-------&lt;/span&gt;2024&lt;span style=&#34;visibility: hidden;&#34;&gt;–&lt;/span&gt;–&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;Research Assistant (Semantics &amp; Pragmatics)&lt;br&gt;&lt;i&gt;&lt;strong&gt;ZAS Berlin&lt;/strong&gt;&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;2021 – 2024&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;Research Assistant (Syntax; Semantics)&lt;br&gt;&lt;i&gt;&lt;strong&gt;University of Potsdam&lt;/strong&gt;&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;2021 – 2024&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;!--   &lt;tr&gt;&#xA;    &lt;td&gt;Row 4, Col 1&lt;/td&gt;&#xA;    &lt;td style=&#34;vertical-align: top; text-align: right;&#34;&gt;Row 4, Col 2&lt;/td&gt;&#xA;  &lt;/tr&gt; --&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>

@@ -90,6 +90,7 @@ url = "/output"
 [[params.menu]]
 name = "cv"
 url = "/public.pdf"
+newTab = true
 
 [[params.menu]]
 name = "random"
