@@ -6,4 +6,4 @@ hidePagination: true
 ---
 
 
-![cv](public.pdf)
+<!-- ![cv](public.pdf) -->
