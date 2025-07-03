@@ -89,7 +89,7 @@ url = "/output"
 
 [[params.menu]]
 name = "cv"
-url = "/cv"
+url = "/public.pdf"
 
 [[params.menu]]
 name = "random"
