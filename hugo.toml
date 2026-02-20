@@ -22,8 +22,10 @@ faviconPath = '/img'
 #[params]
 #faviconPath = '/static'
 
+
+
 # Appearance settings
-theme = 'light'
+theme = 'dark'
 colorPalette = 'default'
 hideHeader = false
 
