@@ -55,7 +55,7 @@ I go by and write as *Ari*, which is my nickname.<br>My legal name, which I do n
 
 # Lists parameters
 paginationSize = 100
-listSummaries = true
+listSummaries = false
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
@@ -107,9 +107,9 @@ newTab = true
 name = "random"
 url = "/random"
 
-[[params.menu]]
-name = "blog"
-url = "/blog"
+#[[params.menu]]
+#name = "blog"
+#url = "/blog"
 
 
 # Syntax highlight on code blocks

@@ -5,15 +5,14 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-###### 2025
+- 🎤 **How fun is this talk gonna be? Yes.** [with Jeanne Lecavelier]<br> (serious title: "Decomposition of questions into sets of polar questions: A case study from Internet English")<br>BerlinBrnoVienna | Brno, June 2026 
 
 - 🪧 **The King of France is not bald: Metalinguistic negation in the depth-charge illusion**<br>Sinn und Bedeutung 30 | Frankfurt, September 2025
  
 - 🎤 **Compositionality in the depth-charge illusion: Some experimental insights**<br>European Summer School in Logic, Language & Information |  Bochum, August 2025<br>&nbsp;📄 [***(pre-)proceedings***](ESSLLI_final.pdf)
 
 - 🎤 **Modelling quantifier use with beta distributions** [with Davit Gogolashvili]<br>Leibniz-MMS Days | Warnemünde, March 2025
-  
-###### 2024
+
 
 - 🎤 **Are depth-charge sentences semantically ambiguous?**<br>Potsdam Syntax-Semantics Colloquium | January 2024
   

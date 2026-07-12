@@ -8,7 +8,7 @@ hidePagination: true
 
 ###### projects
 
-In my doctoral project, I am investigating perspective shifts in quotation and metalinguistic discourse under the supervision of [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland/) here at ZAS and [Michael Franke](https://michael-franke.github.io/heimseite/) at the University of Tübingen.
+In my doctoral project, I am investigating perspective shifts in quotation under the supervision of [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland/) here at ZAS and [Michael Franke](https://michael-franke.github.io/heimseite/) at the University of Tübingen.
 
 At ZAS, I am part of the [LMBayes](https://www.leibniz-zas.de/en/research/research-areas/semantics-pragmatics/lmbayes) project which focuses on developing probabilistic models of meaning. 
 
