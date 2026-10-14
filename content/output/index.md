@@ -5,16 +5,29 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-- 🎤 **How fun is this talk gonna be? Yes.** [with Jeanne Lecavelier]<br> (serious title: "Decomposition of questions into sets of polar questions: A case study from Internet English")<br>BerlinBrnoVienna | Brno, June 2026 
+<!-- 🎤 **Airquotes as silent contributors of naming supplements**<br>
+*Multimodal Aspects of Silence, Noise and the Signal*<br>
+University of Konstanz, December 2026   -->
 
-- 🪧 **The King of France is not bald: Metalinguistic negation in the depth-charge illusion**<br>Sinn und Bedeutung 30 | Frankfurt, September 2025
+
+🎤 **How fun is this talk gonna be? Yes.** [with Jeanne Lecavelier]<br> (AKA: "Decomposition of questions into sets of polar questions: A case study from Internet English")<br>*BerlinBrnoVienna Workshop*<br>
+Masaryk University Brno, June 2026    
+
+
+🪧 **The King of France is not bald: Metalinguistic negation in the depth-charge illusion**<br>
+*Sinn und Bedeutung 30*<br>
+Goethe-University Frankfurt, September 2025
  
-- 🎤 **Compositionality in the depth-charge illusion: Some experimental insights**<br>European Summer School in Logic, Language & Information |  Bochum, August 2025<br>&nbsp;📄 [***(pre-)proceedings***](ESSLLI_final.pdf)
+🎤 **Compositionality in the depth-charge illusion: Some experimental insights**<br>
+*ESSLLI Student Session*<br>
+University of Bochum, August 2025<br>&nbsp;📄 [***(pre-)proceedings***](ESSLLI_final.pdf)
 
-- 🎤 **Modelling quantifier use with beta distributions** [with Davit Gogolashvili]<br>Leibniz-MMS Days | Warnemünde, March 2025
+🎤 **Modelling quantifier use with beta distributions** [with Davit Gogolashvili]<br>
+*Leibniz-MMS Days Workshop*<br>
+Leibniz-Institut für Ostseeforschung Warnemünde, March 2025       
+     
 
-
-- 🎤 **Are depth-charge sentences semantically ambiguous?**<br>Potsdam Syntax-Semantics Colloquium | January 2024
+🎤 **Are depth-charge sentences semantically ambiguous?**<br>*Potsdam Syntax-Semantics Colloquium*<br>University of Potsdam, January 2024
   
 
 
