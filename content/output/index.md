@@ -5,9 +5,19 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-<!-- 🎤 **Airquotes as silent contributors of naming supplements**<br>
+<!-- ### papers 
+
+**Compositionality in the depth-charge illusion: Some experimental insights**<br>
+*Journal of Logic, Language & Information* 
+[Accepted with minor revisions]
+
+
+### presentations -->
+
+
+🎤 **Airquotes as silent contributors of naming supplements**<br>
 *Multimodal Aspects of Silence, Noise and the Signal*<br>
-University of Konstanz, December 2026   -->
+University of Konstanz, December 2026  
 
 
 🎤 **How fun is this talk gonna be? Yes.** [with Jeanne Lecavelier]<br> (AKA: "Decomposition of questions into sets of polar questions: A case study from Internet English")<br>*BerlinBrnoVienna Workshop*<br>
