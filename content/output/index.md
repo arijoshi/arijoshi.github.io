@@ -14,7 +14,6 @@ hidePagination: true
 
 ### presentations -->
 
-
 🎤 **Airquotes as silent contributors of naming supplements**<br>
 *Multimodal Aspects of Silence, Noise and the Signal*<br>
 University of Konstanz, December 2026  
