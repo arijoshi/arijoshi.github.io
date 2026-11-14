@@ -29,7 +29,7 @@ Goethe-University Frankfurt, September 2025
  
 🎤 **Compositionality in the depth-charge illusion: Some experimental insights**<br>
 *ESSLLI Student Session*<br>
-University of Bochum, August 2025<br>&nbsp;📄 [***(pre-)proceedings***](ESSLLI_final.pdf)
+University of Bochum, August 2025<br>&nbsp;📄 [***proceedings paper***](ESSLLI_final.pdf)
 
 🎤 **Modelling quantifier use with beta distributions** [with Davit Gogolashvili]<br>
 *Leibniz-MMS Days Workshop*<br>

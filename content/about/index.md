@@ -8,11 +8,16 @@ hidePagination: true
 
 ###### projects
 
-In my doctoral project, I am investigating things that look like quotations in spoken language (such as airquotes and enactments) under the supervision of [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland/) here at ZAS and [Michael Franke](https://michael-franke.github.io/heimseite/) at the University of Tübingen.
+In my doctoral project, I am investigating things that look like quotations in spoken language (such as airquotes and demonstrations) under the supervision of [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland/) here at ZAS and [Michael Franke](https://michael-franke.github.io/heimseite/) at the University of Tübingen.
 
 At ZAS, I am part of the [LMBayes](https://www.leibniz-zas.de/en/research/research-areas/semantics-pragmatics/lmbayes) project which focuses on developing probabilistic models of meaning. 
 
 I also enjoy puzzling over the "depth-charge" illusion, which was the topic of my MSc thesis and continues to be a source of delight.
+
+###### other activities
+
+[David Müller](https://sites.google.com/view/davidmueller/startseite) and I are proud to have chaired a very successful Student Session at ESSLLI 2026.\\ The proceedings are archived [here](https://philarchive.org/archive/JOSPOT-2)! 
+
 
 ###### background
 
