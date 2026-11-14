@@ -16,7 +16,7 @@ I also enjoy puzzling over the "depth-charge" illusion, which was the topic of m
 
 ###### other activities
 
-[David Müller](https://sites.google.com/view/davidmueller/startseite) and I are proud to have chaired a very successful Student Session at ESSLLI 2026.\\ The proceedings are archived [here](https://philarchive.org/archive/JOSPOT-2)! 
+[David Müller](https://sites.google.com/view/davidmueller/startseite) and I are proud to have chaired a very successful Student Session at ESSLLI 2026 in Prague. The proceedings are archived [here](https://philarchive.org/archive/JOSPOT-2)! 
 
 
 ###### background
